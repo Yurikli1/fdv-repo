@@ -25,4 +25,4 @@ Um site simples com HTML, CSS e JavaScript para aprender os fluxos de trabalho d
 
 ## Autor
 
-Yurik Lissmann
+Yuri KLissmann
